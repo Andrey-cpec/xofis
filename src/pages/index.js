@@ -21,7 +21,7 @@ const IndexPage = () => {
   const blogData = generateMockBlogData(3);
 
   const goToShop = () => {
-    navigate('/shop');
+    navigate('https://xofis.ru/');
   };
 
   return (
