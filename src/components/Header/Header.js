@@ -33,7 +33,7 @@ const Header = (prop) => {
     'Lama Pajamas',
     'Candles Cinnamon',
   ];
-
+<meta name="google-site-verification" content="TXZhwqkKVXGMtPSfN02BwPmk49KYnZDhiLISse61eKo" />
   const handleHover = (navObject) => {
     if (navObject.category) {
       setShowMenu(true);
