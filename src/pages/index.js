@@ -81,7 +81,7 @@ const IndexPage = () => {
             title={'Luxury Knitwear'}
             description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
             textLink={'shop now'}
-            link={'/shop'}
+            link={'https://xofis.ru/'}
           />
         </Container>
       </div>
