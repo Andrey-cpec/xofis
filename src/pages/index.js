@@ -30,9 +30,9 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'https://static.tildacdn.com/tild6632-6161-4262-b931-376664376237/office-1966381_1920-.jpg'}
-        title={'Офисная мебель.Хорошая обстановка'}
+        title={'Хорошая обстановка'}
         subtitle={'https://xofis.ru/'}
-        ctaText={'shop now'}
+        ctaText={'офисная мебель'}
         ctaAction={goToShop}
       />
 
