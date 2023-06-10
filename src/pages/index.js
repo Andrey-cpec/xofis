@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'https://static.tildacdn.com/tild6632-6161-4262-b931-376664376237/office-1966381_1920-.jpg'}
         title={'Офисная мебель.Хорошая обстановка'}
-        subtitle={'Discover Autumn Winter 2021'}
+        subtitle={'https://xofis.ru/'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
