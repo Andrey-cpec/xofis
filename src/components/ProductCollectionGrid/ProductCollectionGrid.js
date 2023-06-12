@@ -7,7 +7,7 @@ const ProductCollectionGrid = (props) => {
   return (
     <div className={styles.root}>
       <ProductCollection
-        image={'/collections/collection1.png'}
+        image={'https://static.tildacdn.com/tild3334-3032-4239-b633-393431613562/noroot.png'}
         title={'Head office'}
         text={'SHOP NOW'}
         link={'/shop'}

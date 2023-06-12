@@ -52,7 +52,7 @@ const SamplePage = (props) => {
                   <img src={'/cloth.png'} alt={'sample1'} />
                 </div>
                 <div className={styles.imageContainer}>
-                  <img src={'/collections/collection1.png'} alt={'sample2'} />
+                  <img src={'https://static.tildacdn.com/tild3334-3032-4239-b633-393431613562/noroot.png'} alt={'sample2'} />
                 </div>
               </div>
               <div className={styles.content}>
