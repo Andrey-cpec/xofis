@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'https://static.tildacdn.com/tild6632-6161-4262-b931-376664376237/office-1966381_1920-.jpg'}
         title={'Good Environment'}
-        subtitle={'FOR YOU TO BE COMFORTABLE'}
+        subtitle={'to make you feel comfortable'}
         ctaText={'Office furniture'}
         ctaAction={goToShop}
       />
