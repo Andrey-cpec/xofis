@@ -40,7 +40,7 @@ const IndexPage = () => {
       <div className={styles.messageContainer}>
         <p>
         Мы делаем больше для наших клиентов.{' '}
-          <span className={styles.gold}>.</span>
+          <span className={styles.gold}>Good Environment.</span>
         </p>
         <p>
         Поставляем офисную мебель. <span className={styles.gold}>Большой выбор</span> and{' '}
