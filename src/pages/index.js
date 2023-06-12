@@ -39,12 +39,12 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-        Мы делаем больше для наших клиентов.{' '}
+        We do more for our clients.{' '}
           <span className={styles.gold}>Good Environment.</span>
         </p>
         <p>
-        Поставляем офисную мебель. <span className={styles.gold}>Большой выбор</span> and{' '}
-          <span className={styles.gold}>Высокое качество&недорого</span>
+        We supply office furniture. <span className={styles.gold}>Big choice.</span> and{' '}
+          <span className={styles.gold}>High quality&inexpensive.</span>
         </p>
       </div>
 
