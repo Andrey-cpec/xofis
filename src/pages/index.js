@@ -91,7 +91,7 @@ const IndexPage = () => {
         <Hero image={'/banner2.png'} title={`-50% off \n All Essentials`} />
         <div className={styles.linkContainers}>
           <Link to={'/shop'}>WOMAN</Link>
-          <Link to={'/shop'}>MAN</Link>
+          <Link to={'https://xofis.ru/kabinet-rukovoditelya'}>MAN</Link>
         </div>
       </div>
 
