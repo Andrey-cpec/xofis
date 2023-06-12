@@ -31,7 +31,7 @@ const IndexPage = () => {
         maxWidth={'500px'}
         image={'https://static.tildacdn.com/tild6632-6161-4262-b931-376664376237/office-1966381_1920-.jpg'}
         title={'Хорошая обстановка'}
-        subtitle={'https://xofis.ru/'}
+        subtitle={'чтобы вам было удобно'}
         ctaText={'офисная мебель'}
         ctaAction={goToShop}
       />
@@ -39,12 +39,12 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+        Мы делаем больше для наших клиентов.{' '}
+          <span className={styles.gold}>Хорошая обстановка.</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+        Поставляем офисную мебель. <span className={styles.gold}>Большой выбор</span> and{' '}
+          <span className={styles.gold}>Высокое качество&недорого</span>
         </p>
       </div>
 
