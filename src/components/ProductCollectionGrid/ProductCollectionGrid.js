@@ -10,7 +10,7 @@ const ProductCollectionGrid = (props) => {
         image={'https://static.tildacdn.com/tild3334-3032-4239-b633-393431613562/noroot.png'}
         title={'Head office'}
         text={'SHOP NOW'}
-        link={'/shop'}
+        link={'https://xofis.ru/kabinet-rukovoditelya'}
       />
       <ProductCollection
         image={'/collections/collection2.png'}
