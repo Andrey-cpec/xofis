@@ -39,8 +39,8 @@ const ProductPage = (props) => {
           <Breadcrumbs
             crumbs={[
               { link: '/', label: 'Home' },
-              { label: 'Men', link: '/shop' },
-              { label: 'Sweater', link: '/shop' },
+              { label: 'Head office', link: 'https://xofis.ru/kabinet-rukovoditelya' },
+              { label: 'Sweater', link: 'https://xofis.ru/kabinet-rukovoditelya' },
               { label: `${sampleProduct.name}` },
             ]}
           />
