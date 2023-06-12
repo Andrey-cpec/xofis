@@ -106,7 +106,7 @@ On the homepage of the website and a few other places, there is a full-width ima
 ```jsx
 <Hero
   maxWidth='500px' // how big the image's maxumim should be
-  image={'/banner1.png'} // the source location for the image
+  image={'https://static.tildacdn.com/tild3334-3032-4239-b633-393431613562/noroot.png'} // the source location for the image
   title={'Essentials for a cold winter'} // the main text displayed
   subtitle={'Discover Autumn Winter 2021'} // text found below the main text
   ctaText={'shop now'} // the presented text for a user to click on
