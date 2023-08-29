@@ -29,7 +29,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'https://static.tildacdn.com/tild6632-6161-4262-b931-376664376237/office-1966381_1920-.jpg'}
+        image={'banner1.png'}
         title={'Good Environment'}
         subtitle={'to make you feel comfortable'}
         ctaText={'Office furniture'}
