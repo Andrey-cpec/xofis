@@ -15,7 +15,7 @@ const Brand = (props) => {
         width={127}
         height={32}
         xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 127.67 23.36"
+        viewBox="0 0 127.67 32.36"
       >
         <path
           fill="currentColor"
