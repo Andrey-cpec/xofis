@@ -11,7 +11,13 @@ const Brand = (props) => {
       onClick={() => navigate('/')}
     >
       {/* <h4>SYDNEY</h4> */}
-       <svg
+       <svg height="90" width="200">
+   <text x="10" y="20" style="fill:red;">Несколько строк:
+     <tspan x="10" y="45">Первая строка .</tspan>
+     <tspan x="10" y="70">Вторая строка .</tspan>
+   </text>
+</svg> 
+        <svg
         width={32}
         height={32}
         xmlns="http://www.w3.org/2000/svg"
